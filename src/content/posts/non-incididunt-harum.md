@@ -3,7 +3,7 @@ title: Non incididunt harum
 description: "Et nostrud adipisci "
 publishedAt: 2023-08-07T15:30:18.081Z
 isPublish: true
-isDraft: true
+isDraft: false
 ---
 Start with a Template
 You can add Decap CMS to an existing site, but the quickest way to get started is with a template. Found below, our featured templates deploy a bare-bones site and Decap CMS to Netlify (what's the difference, you ask?), giving you a fully working CMS-enabled site with just a few clicks.
